@@ -1,9 +1,8 @@
-
+import CategoryContainer from "./components/category_container/Category_conainer.component";
 const App = ()=> {
+  
   return (
-    <div className="Categories_container">
-      Hello World
-    </div>
+    <CategoryContainer />
   );
 }
 

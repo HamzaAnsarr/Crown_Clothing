@@ -1,5 +1,5 @@
 const FormInput = ({label , ...otherprops})=>{
-    console.log(label , otherprops)
+    // console.log(label , otherprops)
     return(
         <div className="group">
             { label && (

@@ -1,9 +1,17 @@
 .google{
     background-color: blue;
+    padding: 8px 20px;
+    color: white;
+
+    &:hover{
+        background-color: white;
+        color: black;
+    }
 }
 .inverted{
     color: white;
     background-color: black;
+    padding: 8px 20px;
 
     &:hover{
         background-color: white;

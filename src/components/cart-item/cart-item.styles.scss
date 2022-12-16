@@ -1,0 +1,18 @@
+.cart_single_item{
+
+    display: flex;
+    max-height: 70px;
+    img{
+        width: 70px;
+        height: 70px;
+    }
+    .details{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        // border: 1px solid red;
+        width: 100%;
+    }
+    margin-bottom: 10px;
+}
